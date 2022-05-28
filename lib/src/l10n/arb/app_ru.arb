@@ -1,0 +1,7 @@
+{
+    "@@locale": "ru",
+    "counterAppBarTitle": "Считать",
+    "@counterAppBarTitle": {
+        "description": "Readern приложения"
+    }
+}
